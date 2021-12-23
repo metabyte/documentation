@@ -1,13 +1,11 @@
-Kanboard
+KwikNotes
 ========
 
-Kanboard is a free and open source Kanban project management software.
+KwikNotes is a free and open source Kanban project management software.
 
-- Official website: https://kanboard.org
-- Bug Tracker: https://github.com/kanboard/kanboard/issues
-- Forum: https://kanboard.discourse.group/
-- RSS Feed: https://github.com/kanboard/kanboard/releases.atom
-- Mastodon: https://mastodon.social/@kanboard
+- Official website: https://kwiknotes.com
+- Bug Tracker: https://github.com/kwiknotes/kwiknotes/issues
+- Forum: https://kwiknotes.discourse.group/
 
 .. toctree::
     :maxdepth: 1
